@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FirstActivity</string>
+    <string name="angka1" />
+    <string name="angka2" />
+    <string name="btnTambah" />
+    <string name="btnKurang" />
+    <string name="btnBagi">Bagi</string>
+    <string name="Angka1">angka1</string>
+    <string name="Angka2">angka2</string>
+    <string name="btnTambaH">Tambah</string>
+    <string name="btnKuranG">Kurang</string>
+    <string name="btnKali">Kali</string>
+    <string name="hasil">hasil</string>
+</resources>

@@ -1,0 +1,3 @@
+2. a. jika angka1 dan angka2 dikosongkan maka aplikasi akan berhenti dan keluar
+b. jika angka2 dikosongkan dan klik button bagi maka aplikasi akan berhenti dan keluar
+c. jika angka2 dikosongkan dan klik button bagi maka hasilnya akan tertulis infinity
