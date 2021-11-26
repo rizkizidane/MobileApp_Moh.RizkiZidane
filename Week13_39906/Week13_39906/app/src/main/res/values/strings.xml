@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Week13_39906</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="tambah">TAMBAH</string>
+    <string name="title_activity_tambah_object">TambahObject</string>
+</resources>
